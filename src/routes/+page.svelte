@@ -1,2 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="home_hero">
+	<h1>AKER</h1>
+	<p>Design + Outils + Formation</p>
+	<a href="/">
+		<div class="btn">OK!</div>
+	</a>
+</div>
+
+<style>
+</style>
