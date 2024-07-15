@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/akertest.616b6572.xyz/
-    - /bin/cp -R build $DEPLOYPATH
+    - cp -R build $DEPLOYPATH
